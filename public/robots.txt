@@ -1,3 +1,7 @@
 User-agent: *
 Disallow:
+<<<<<<< HEAD
 test1
+=======
+kjl
+>>>>>>> 40d75c2ae8f139dbe61f9acd4bc6af2ba49c2a49
